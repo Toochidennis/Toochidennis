@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @Toochidennis
-- 👀 I am expeirenced in developing mobile apps and machine learning models also, a data analyst.
-- 🌱 I develop both system and android applications.
-- 💞️ I’m looking forward to collaborate on the projects you have here.
-- 📫 How to reach me @whatsapp 09030270148 or @facebook Toochi Dennis
+### 👋 Hi, I'm Toochi Dennis
+
+Software Engineer specializing in **backend systems, desktop applications, and learning platforms**.
+
+I work primarily with **TypeScript, NestJS, React, Electron, Flutter, Python, kotlin, Java, and PHP**, building scalable applications backed by **PostgreSQL, SQLite, MySQL, and Supabase**.
+
+My interests include **offline-first systems, cybersecurity, developer tooling, and educational technology**.
+
+I also teach **programming, cybersecurity, and robotics**, helping students move from theory to real-world development.
+
+📫 WhatsApp: +2349030270148
+📫 Facebook: Toochi Dennis
+
 
 <!---
 Toochidennis/Toochidennis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
